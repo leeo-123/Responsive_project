@@ -1,0 +1,21 @@
+.bg-black{background:#000 !important;}
+.scale{
+    height:34px;
+}
+.select{
+    height:34x;
+    border:2px solid #fff;
+    background:transparent;
+}
+
+.font-small{
+    color:#fff;
+    font-size:85%;
+}
+.fh{height:18px;}
+
+@media (max-width:767px){
+    .all-center{text-align:center;}
+    #copyright{justify-content:center;}
+}
+

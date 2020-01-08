@@ -1,0 +1,12 @@
+.bg-dark{background:#000 !important;}
+.navbar-brand img{max-width:200px;}
+.nav-link{color:#fff !important;}
+.nav-link:hover{
+    color:#f00 !important;
+    cursor:pointer;
+}
+.nav-link img{height:14px;}
+#search img{height:19px;}
+.my_header{
+    height:75px;
+}
